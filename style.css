@@ -18,3 +18,8 @@ h2 {
     font-family: cursive;
     color: purple;
 }
+
+// New in Commit 3
+h3 {
+    text-align: center;
+}

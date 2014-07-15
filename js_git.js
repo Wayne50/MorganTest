@@ -12,3 +12,11 @@ var test = function wayne(){
        c = a / b;
        
     } ;
+    
+    //new in commit 3
+    var test = function commit2(){
+       a = 1;
+       b = 5;
+       c = a / b;
+       
+    } ;
